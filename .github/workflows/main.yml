@@ -1,4 +1,4 @@
-name: did:iden3:billions:main:2VsUVUqC8FUFbNc4KRASyK29Wt14Jpazb3xEwHS3Qf
+name: Verified Agent Identity
 
 on:
   workflow_dispatch:
